@@ -1,0 +1,47 @@
+
+  body{
+    background-color: #def4f0;
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    width: 5%;
+    border-width: 5px;
+
+  }
+  h1{
+    color: #00909e;
+    font-size: 40px;
+  }
+  h3{
+    color:#58b4ae;
+  }
+img{
+border: 3px solid #00909e;
+border-radius: 200px;
+padding: 0;
+}
+
+
+
+/******************* class *******************/
+.profile{
+  border: 3px solid #00909e;
+  border-radius: 200px;
+  padding: 0;
+  box-shadow: 0 8px 10px 2px ;
+}
+.background{
+  vertical-align: middle;
+  height: 900px;
+  width: 70%;
+  float: right;
+}
+
+
+.name{
+  float: left;
+  font-family: 'Sofia';
+  font-size: 50px;
+}
